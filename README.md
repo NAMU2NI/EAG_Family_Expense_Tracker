@@ -2,6 +2,9 @@
 
 A personal finance dashboard built with Gradio that parses bank statements, auto-categorizes transactions, and visualizes spending with budget tracking.
 
+## Youtube Video
+https://youtu.be/RkHp6xHSvho
+
 ## Features
 
 - **Import bank statements** — Upload CSV or PDF files; supports multi-bank tracking
@@ -10,7 +13,7 @@ A personal finance dashboard built with Gradio that parses bank statements, auto
 - **Manual overrides** — Click any transaction to reassign its category; the app learns the mapping for future imports
 - **Analytics dashboard** — Category/payment-type pie charts, budget vs. actual bar chart, KPI summary bar
 - **Insight engine** — Automatic spending insights and recommendations based on budget performance
-
+ 
 ## Project Structure
 
 ```
